@@ -463,3 +463,5 @@ li.nav-item .btn-white {
     padding: 0;
     display: flex;
     justify-content: center; } }
+#downloadButton {
+  background-image: url("images/app-store-badge.svg"); }
